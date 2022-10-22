@@ -4,4 +4,4 @@ This repository comprises a black box implementation of an Image classifier buil
 
 The datasets used are from [Here](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset) and [Here](https://github.com/UCSD-AI4H/COVID-CT).
 
-A pre-trained model is provided under the repository for immediate use, and the epochs and batch-size can be adjusted for personal use.
+A pre-trained model is provided under the repository for immediate use, and the epochs and batch-size can be adjusted for personal use, but suitable datasets can be provided for training and substituted at every instance of reference.
